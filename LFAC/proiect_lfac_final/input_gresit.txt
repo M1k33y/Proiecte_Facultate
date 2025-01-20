@@ -1,0 +1,67 @@
+class A
+{
+int x = 111;
+int y = 222;
+int g(int z) {
+    z = z + 3;
+    xx = 2;
+    x = f(3);
+    return -1;
+}
+
+};
+
+class B
+	{
+	float x;
+};
+
+class B
+	{
+	float x;
+};
+
+B oba ;
+B obb ;
+int x = 60;
+int ix = 10;
+int iy = 900;
+int iz = 30;
+bool b1 = true;
+float fx = 6.5;
+string s = "string";
+char  c = 'x';
+int v[10];
+
+
+float g (int z)
+{
+return 5.0;
+}
+
+int f (int z)
+{ return 10;}
+
+int bfunc(bool b, string s, float f){
+   return 100;
+}
+
+class B
+{
+	float x;
+};
+float g (int z)
+{
+return 5.0;
+}
+
+begin_progr
+	bfunc(b1,s);
+fx = bfunc(b1,"ceva",3);
+fx = b1 + fx + ix;
+       ix = bfunc(b1,"ceva");
+       ix = bfunc(ix,10,"ceva");
+       Print(s + ix);
+       Print(f(ix)+g(ix));
+       TypeOf(oba.x + obb.x);
+end_progr

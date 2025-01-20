@@ -1,0 +1,305 @@
+Generatia 0
+0: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 143, 1004, 0, 8, 0.10534, 4.67543, 0.70842;
+0: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 129, 975, 1, 3, 0.34361, 4.21192, 0.47980;
+0: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 114, 916, 1, 3, 0.09963, 2.47048, 0.68997;
+0: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 62, 556, 1, 3, 0.30139, 5.87259, 0.47361;
+0: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 82, 1605, 1, 3, 0.24540, 10.41287, 0.85406;
+0: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 1476, 0, 1, 0.01331, 10.96801, 0.82757;
+0: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 120, 720, 1, 4, 0.02142, 2.07495, 0.14484;
+0: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 147, 458, 0, 5, 0.23842, 2.11144, 0.43027;
+0: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 82, 2, 4, 0.34418, 8.25808, 0.10093;
+0: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 223, 1, 6, 0.04368, 1.40851, 0.41239;
+1: Evaluarea populatiei curente: 9500.72823, 9703.60647, 9317.73230, 9804.56802, 9785.92106, 8728.01373, 7017.26316, 9779.33155, 9469.76521, 8010.96146, 
+Fenotipul celui mai bun candidat al populatiei curente (pS, nrG, sM, t_E, P_m, s, P_c):  120, 720, 1, 4, 0.02142, 2.07495, 0.14484 || GA(candidat): 7017.26316
+
+Generatia 1
+1: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 120, 722, 1, 4, 0.22087, 2.07495, 0.14484;
+1: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 161, 1, 5, 0.04368, 1.40851, 0.41239;
+1: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 82, 1605, 1, 3, 0.24540, 10.41287, 0.85395;
+1: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 114, 916, 1, 3, 0.09963, 2.47064, 0.68994;
+1: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 82, 2, 4, 0.34418, 8.26210, 0.10093;
+1: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 120, 720, 1, 4, 0.02142, 2.07495, 0.14484;
+1: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 114, 884, 1, 3, 0.09963, 2.47048, 0.68997;
+1: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 129, 975, 1, 3, 0.34368, 4.21192, 0.47980;
+1: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 114, 916, 1, 3, 0.08404, 2.47044, 0.68975;
+1: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 114, 916, 1, 3, 0.09963, 2.47056, 0.68997;
+2: Evaluarea populatiei curente: 9214.79175, 8100.36127, 9654.82073, 8833.67085, 9872.84964, 6764.34070, 8901.56957, 9377.80351, 8995.80672, 9410.74063, 
+Fenotipul celui mai bun candidat al populatiei curente (pS, nrG, sM, t_E, P_m, s, P_c):  120, 720, 1, 4, 0.02142, 2.07495, 0.14484 || GA(candidat): 6764.34070
+
+Generatia 2
+2: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 120, 720, 1, 6, 0.09623, 2.07480, 0.14484;
+2: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 1161, 1, 5, 0.04368, 1.40818, 0.41239;
+2: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 114, 916, 1, 3, 0.09963, 2.47064, 0.68994;
+2: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 114, 916, 1, 3, 0.08404, 8.13716, 0.69019;
+2: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 129, 944, 1, 3, 0.34368, 4.21192, 0.47980;
+2: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 124, 176, 1, 6, 0.04369, 1.40851, 0.41239;
+2: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 114, 884, 1, 3, 0.09963, 2.47081, 0.68823;
+2: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 108, 722, 1, 3, 0.22087, 2.07495, 0.14527;
+2: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 129, 975, 1, 3, 0.34368, 4.21192, 0.48002;
+2: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 161, 1, 5, 0.04368, 1.40852, 0.18989;
+3: Evaluarea populatiei curente: 9061.22364, 8318.07804, 9031.60663, 9078.49551, 9378.85101, 8230.98082, 8937.12041, 9621.84086, 9702.31344, 8143.70143, 
+Fenotipul celui mai bun candidat al populatiei curente (pS, nrG, sM, t_E, P_m, s, P_c):  118, 161, 1, 5, 0.04368, 1.40852, 0.18989 || GA(candidat): 8143.70143
+
+Generatia 3
+3: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 161, 1, 5, 0.04368, 0.03477, 0.18641;
+3: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 148, 176, 1, 7, 0.04369, 1.41924, 0.41239;
+3: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 114, 916, 1, 3, 0.09339, 2.47064, 0.68996;
+3: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 1161, 0, 5, 0.04368, 1.40952, 0.41239;
+3: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 114, 166, 1, 3, 0.08404, 8.11569, 0.69020;
+3: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 1161, 1, 5, 0.04368, 1.40818, 0.41239;
+3: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 114, 794, 1, 3, 0.09651, 8.13716, 0.70410;
+3: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 411, 1, 5, 0.04373, 1.40819, 0.18989;
+3: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 129, 952, 1, 3, 0.34327, 4.21461, 0.47980;
+3: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 161, 1, 5, 0.04368, 1.40852, 0.18989;
+4: Evaluarea populatiei curente: 6644.87484, 7739.70911, 9360.91667, 9460.09954, 8819.38248, 8132.73550, 9207.41330, 8407.12853, 9578.26516, 8027.70919, 
+Fenotipul celui mai bun candidat al populatiei curente (pS, nrG, sM, t_E, P_m, s, P_c):  118, 161, 1, 5, 0.04368, 0.03477, 0.18641 || GA(candidat): 6644.87484
+
+Generatia 4
+4: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 168, 0, 5, 0.04368, 0.04014, 0.18641;
+4: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 148, 176, 1, 7, 0.04369, 0.04549, 0.18641;
+4: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 411, 1, 5, 0.04373, 1.40810, 0.18989;
+4: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 161, 1, 5, 0.04368, 0.07770, 0.52014;
+4: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 129, 952, 1, 3, 0.24352, 4.21465, 0.47980;
+4: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 121, 161, 1, 6, 0.04348, 1.40852, 0.18989;
+4: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 411, 1, 5, 0.04373, 0.03444, 0.13426;
+4: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 161, 1, 5, 0.09356, 1.40852, 0.18989;
+4: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 117, 286, 1, 5, 0.04373, 1.40819, 0.18989;
+4: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 114, 916, 1, 2, 0.09339, 2.47064, 0.68299;
+5: Evaluarea populatiei curente: 9614.82456, 6115.16172, 8266.85553, 5682.96639, 9599.32071, 8102.28690, 4910.15235, 8605.85972, 8003.99475, 9035.28306, 
+Fenotipul celui mai bun candidat al populatiei curente (pS, nrG, sM, t_E, P_m, s, P_c):  118, 411, 1, 5, 0.04373, 0.03444, 0.13426 || GA(candidat): 4910.15235
+
+Generatia 5
+5: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 411, 1, 5, 0.04373, 0.03444, 0.13404;
+5: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 161, 1, 5, 0.04056, 0.07770, 0.46451;
+5: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 411, 1, 5, 0.04373, 4.15560, 0.18967;
+5: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 137, 952, 1, 3, 0.23105, 4.21465, 0.47980;
+5: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 117, 286, 1, 5, 0.04373, 1.40819, 0.18989;
+5: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 148, 239, 1, 7, 0.04368, 0.13672, 0.18641;
+5: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 129, 967, 1, 3, 0.24352, 4.21465, 0.47980;
+5: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 148, 176, 1, 7, 0.04369, 0.04549, 0.18728;
+5: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 121, 161, 1, 6, 0.09336, 1.40852, 0.18989;
+5: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 148, 176, 1, 7, 0.04369, 0.04549, 0.18641;
+6: Evaluarea populatiei curente: 5053.14795, 5434.78768, 8640.04475, 9399.38219, 8395.97137, 4409.28110, 9660.95122, 5603.50252, 8911.67408, 5928.73288, 
+Fenotipul celui mai bun candidat al populatiei curente (pS, nrG, sM, t_E, P_m, s, P_c):  148, 239, 1, 7, 0.04368, 0.13672, 0.18641 || GA(candidat): 4409.28110
+
+Generatia 6
+6: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 147, 240, 1, 7, 0.04368, 0.13672, 0.18641;
+6: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 119, 411, 1, 5, 0.04996, 0.03578, 0.13404;
+6: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 148, 176, 1, 7, 0.04378, 0.04541, 0.18728;
+6: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 148, 176, 1, 7, 0.04369, 0.04549, 0.18728;
+6: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 137, 952, 1, 3, 0.23105, 4.21465, 0.47980;
+6: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 148, 176, 1, 7, 0.04373, 0.04549, 0.18641;
+6: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 411, 1, 5, 0.09360, 4.15628, 0.18923;
+6: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 117, 286, 1, 5, 0.04373, 1.75162, 0.16207;
+6: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 411, 1, 5, 0.04056, 0.07904, 0.46277;
+6: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 106, 655, 1, 2, 0.24274, 4.21565, 0.47980;
+7: Evaluarea populatiei curente: 4046.99549, 4608.85459, 5650.86137, 6164.09472, 9638.62612, 6124.56864, 9145.32836, 8273.19066, 4252.86816, 9694.06398, 
+Fenotipul celui mai bun candidat al populatiei curente (pS, nrG, sM, t_E, P_m, s, P_c):  147, 240, 1, 7, 0.04368, 0.13672, 0.18641 || GA(candidat): 4046.99549
+
+Generatia 7
+7: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 147, 209, 1, 7, 0.04368, 0.13672, 0.18641;
+7: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 411, 1, 5, 0.04056, 0.07904, 0.46277;
+7: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 10, 530, 1, 1, 0.24293, 4.21565, 0.47981;
+7: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 147, 114, 1, 7, 0.24318, 0.13672, 0.18641;
+7: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 137, 952, 1, 3, 0.23105, 4.21599, 0.47980;
+7: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 106, 655, 1, 2, 0.24274, 4.21012, 0.53543;
+7: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 148, 176, 1, 7, 0.04378, 0.04541, 0.18728;
+7: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 411, 1, 5, 0.04056, 0.07904, 0.46277;
+7: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 148, 176, 3, 7, 0.04369, 0.04549, 0.18728;
+7: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 106, 655, 1, 2, 0.28016, 4.19419, 0.53543;
+8: Evaluarea populatiei curente: 4751.11736, 4123.52338, 9647.54795, 5904.15752, 9688.81686, 9958.93315, 5832.29705, 4177.17098, 6258.56417, 9492.97101, 
+Fenotipul celui mai bun candidat al populatiei curente (pS, nrG, sM, t_E, P_m, s, P_c):  118, 411, 1, 5, 0.04056, 0.07904, 0.46277 || GA(candidat): 4123.52338
+
+Generatia 8
+8: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 142, 411, 1, 6, 0.04134, 0.07904, 0.46277;
+8: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 286, 1, 5, 0.14031, 0.07904, 0.68527;
+8: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 106, 655, 1, 2, 0.24274, 4.21012, 0.53543;
+8: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 147, 114, 1, 7, 0.24318, 0.13672, 0.18641;
+8: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 147, 209, 1, 7, 0.04368, 0.13672, 0.18641;
+8: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 106, 155, 1, 2, 0.28016, 4.19419, 0.53543;
+8: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 10, 655, 1, 1, 0.28014, 4.19419, 0.53545;
+8: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 106, 655, 1, 2, 0.28016, 4.19428, 0.75793;
+8: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 411, 1, 5, 0.04056, 0.07903, 0.46274;
+8: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 10, 530, 1, 1, 0.24332, 4.21565, 0.47981;
+9: Evaluarea populatiei curente: 3762.15612, 5065.25036, 9652.04090, 6173.73620, 4545.47383, 9743.74058, 9999.00000, 9618.53146, 3895.02251, 9804.49022, 
+Fenotipul celui mai bun candidat al populatiei curente (pS, nrG, sM, t_E, P_m, s, P_c):  142, 411, 1, 6, 0.04134, 0.07904, 0.46277 || GA(candidat): 3762.15612
+
+Generatia 9
+9: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 148, 411, 1, 7, 0.14109, 0.16490, 0.46278;
+9: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 411, 1, 5, 0.14031, 0.07904, 0.68527;
+9: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 286, 1, 5, 0.04056, 0.07903, 0.46274;
+9: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 10, 530, 1, 1, 0.23085, 4.55909, 0.47981;
+9: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 142, 411, 1, 6, 0.04134, 0.07904, 0.45583;
+9: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 147, 114, 1, 7, 0.24318, 0.13672, 0.18619;
+9: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 411, 1, 5, 0.04056, 0.07903, 0.46274;
+9: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 286, 1, 5, 0.14031, 0.07903, 0.68530;
+9: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 147, 209, 1, 7, 0.04368, 0.13672, 0.18641;
+9: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 142, 411, 1, 5, 0.04134, 0.07904, 0.46277;
+10: Evaluarea populatiei curente: 2941.01905, 4583.84777, 4895.77625, 9900.58724, 4610.20605, 6350.94049, 3844.77500, 4820.59446, 4817.45622, 4180.37093, 
+Fenotipul celui mai bun candidat al populatiei curente (pS, nrG, sM, t_E, P_m, s, P_c):  148, 411, 1, 7, 0.14109, 0.16490, 0.46278 || GA(candidat): 2941.01905
+
+Generatia 10
+10: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 136, 411, 1, 6, 0.14070, 0.16490, 0.46278;
+10: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 411, 1, 5, 0.04056, 0.16489, 0.46274;
+10: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 286, 1, 5, 0.11382, 0.07769, 0.71311;
+10: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 286, 1, 5, 0.14031, 0.42247, 0.68531;
+10: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 10, 530, 1, 1, 0.24333, 4.64495, 0.47937;
+10: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 412, 1, 5, 0.04056, 0.07903, 0.46276;
+10: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 147, 209, 1, 7, 0.04368, 2.88422, 0.18467;
+10: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 23, 293, 1, 2, 0.04056, 0.07903, 0.46274;
+10: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 143, 411, 1, 6, 0.04134, 0.07904, 0.45583;
+10: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 286, 1, 5, 0.14031, 0.08976, 0.68704;
+11: Evaluarea populatiei curente: 3688.92379, 3413.28184, 5081.71140, 6777.63454, 9752.60707, 4219.38655, 8463.76004, 5613.66725, 3945.06672, 5131.26225, 
+Fenotipul celui mai bun candidat al populatiei curente (pS, nrG, sM, t_E, P_m, s, P_c):  118, 411, 1, 5, 0.04056, 0.16489, 0.46274 || GA(candidat): 3413.28184
+
+Generatia 11
+11: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 426, 1, 5, 0.04059, 0.16489, 0.46231;
+11: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 136, 161, 1, 6, 0.14070, 5.65722, 0.46278;
+11: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 286, 1, 5, 0.11382, 0.08842, 0.71311;
+11: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 412, 1, 5, 0.04056, 0.07903, 0.46276;
+11: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 143, 411, 1, 6, 0.04137, 0.07904, 0.45583;
+11: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 143, 418, 1, 6, 0.09745, 0.07904, 0.45931;
+11: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 286, 1, 5, 0.11382, 0.07769, 0.71311;
+11: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 286, 1, 5, 0.11387, 0.07769, 0.71311;
+11: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 411, 1, 5, 0.04134, 0.14343, 0.46274;
+11: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 286, 1, 5, 0.11382, 0.07769, 0.71311;
+12: Evaluarea populatiei curente: 3283.06873, 9480.18210, 4747.30557, 3966.71412, 4060.13716, 4287.90524, 4859.09704, 5096.64498, 3124.62396, 4962.40076, 
+Fenotipul celui mai bun candidat al populatiei curente (pS, nrG, sM, t_E, P_m, s, P_c):  118, 411, 1, 5, 0.04134, 0.14343, 0.46274 || GA(candidat): 3124.62396
+
+Generatia 12
+12: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 473, 1, 5, 0.14109, 0.14343, 0.46274;
+12: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 426, 1, 5, 0.04018, 0.16489, 0.45932;
+12: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 143, 418, 1, 6, 0.09746, 0.07871, 0.01433;
+12: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 412, 1, 5, 0.02809, 0.07903, 0.01775;
+12: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 286, 1, 5, 0.11382, 0.07769, 0.71398;
+12: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 286, 1, 5, 0.11382, 0.07769, 0.71290;
+12: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 36, 1, 5, 0.11382, 0.08306, 0.71311;
+12: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 143, 418, 1, 6, 0.09745, 0.07886, 0.57356;
+12: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 117, 286, 1, 5, 0.11387, 0.08272, 0.71311;
+12: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 411, 1, 5, 0.04135, 0.14343, 0.46274;
+13: Evaluarea populatiei curente: 3245.04309, 3001.32096, 4640.61912, 3747.70914, 4739.84002, 4888.35251, 8008.86098, 4129.43927, 5204.19204, 2738.83372, 
+Fenotipul celui mai bun candidat al populatiei curente (pS, nrG, sM, t_E, P_m, s, P_c):  118, 411, 1, 5, 0.04135, 0.14343, 0.46274 || GA(candidat): 2738.83372
+
+Generatia 13
+13: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 411, 1, 5, 0.04135, 0.14343, 0.46274;
+13: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 395, 1, 5, 0.04018, 0.16489, 0.45921;
+13: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 107, 412, 1, 5, 0.02819, 0.07903, 0.01775;
+13: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 146, 419, 1, 7, 0.09746, 0.25579, 0.01434;
+13: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 286, 1, 5, 0.11382, 0.16355, 0.71398;
+13: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 36, 1, 5, 0.11382, 0.08306, 0.71311;
+13: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 973, 1, 5, 0.14109, 0.14611, 0.46274;
+13: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 191, 418, 1, 8, 0.09668, 0.07875, 0.01433;
+13: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 287, 1, 6, 0.02809, 0.08440, 0.07686;
+13: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 426, 1, 5, 0.04023, 0.16489, 0.45932;
+14: Evaluarea populatiei curente: 2996.55787, 3327.03608, 4623.14509, 3236.74473, 4206.63784, 8551.21911, 2521.03832, 4006.94753, 4936.75317, 2733.46255, 
+Fenotipul celui mai bun candidat al populatiei curente (pS, nrG, sM, t_E, P_m, s, P_c):  118, 973, 1, 5, 0.14109, 0.14611, 0.46274 || GA(candidat): 2521.03832
+
+Generatia 14
+14: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 120, 973, 1, 5, 0.14109, 0.14594, 0.46274;
+14: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 426, 1, 5, 0.04023, 0.16489, 0.45932;
+14: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 287, 1, 6, 0.02652, 0.08440, 0.07686;
+14: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 191, 415, 1, 6, 0.08421, 0.08931, 0.01433;
+14: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 411, 1, 6, 0.02809, 0.08440, 0.07691;
+14: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 411, 1, 5, 0.04135, 0.16221, 0.46280;
+14: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 286, 3, 5, 0.31332, 0.16356, 0.71398;
+14: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 395, 1, 5, 0.04018, 0.16489, 0.45921;
+14: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 189, 418, 1, 8, 0.19643, 0.76562, 0.01086;
+14: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 106, 411, 1, 5, 0.04135, 1.51701, 0.46274;
+15: Evaluarea populatiei curente: 2294.31954, 3113.28141, 4818.68396, 3879.16118, 4125.07928, 3265.97947, 4940.92811, 3410.81118, 9124.28810, 8027.22431, 
+Fenotipul celui mai bun candidat al populatiei curente (pS, nrG, sM, t_E, P_m, s, P_c):  120, 973, 1, 5, 0.14109, 0.14594, 0.46274 || GA(candidat): 2294.31954
+
+Generatia 15
+15: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 120, 848, 1, 5, 0.14109, 1.51969, 0.46274;
+15: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 395, 1, 6, 0.04646, 0.16489, 0.57057;
+15: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 411, 1, 6, 0.02809, 0.08439, 0.07691;
+15: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 411, 1, 3, 0.04135, 0.16221, 0.46281;
+15: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 189, 1418, 1, 8, 0.19643, 0.76562, 0.03867;
+15: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 142, 286, 3, 6, 0.11382, 0.16355, 0.45926;
+15: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 287, 1, 6, 0.02652, 0.08423, 0.52186;
+15: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 426, 1, 5, 0.04023, 0.16473, 0.71398;
+15: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 397, 1, 5, 0.04641, 0.16489, 0.45921;
+15: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 161, 3, 5, 0.04144, 0.16221, 0.46281;
+16: Evaluarea populatiei curente: 9139.20476, 3275.16673, 4217.38290, 3359.39628, 8838.43496, 4692.32577, 4348.51346, 3178.42942, 3403.12577, 5187.04080, 
+Fenotipul celui mai bun candidat al populatiei curente (pS, nrG, sM, t_E, P_m, s, P_c):  118, 426, 1, 5, 0.04023, 0.16473, 0.71398 || GA(candidat): 3178.42942
+
+Generatia 16
+16: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 426, 1, 5, 0.04023, 0.16473, 0.71393;
+16: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 270, 1, 6, 0.04646, 0.16493, 0.57057;
+16: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 427, 1, 5, 0.04032, 0.13220, 0.71398;
+16: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 189, 1418, 1, 8, 0.18396, 0.76562, 0.03868;
+16: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 121, 161, 3, 6, 0.04144, 0.16221, 0.46281;
+16: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 395, 3, 5, 0.04018, 0.16490, 0.45921;
+16: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 395, 1, 6, 0.04646, 0.07903, 0.57057;
+16: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 397, 1, 6, 0.09634, 0.33661, 0.57057;
+16: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 142, 286, 3, 6, 0.11382, 0.16355, 0.45926;
+16: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 176, 1, 5, 0.04023, 1.53849, 0.71398;
+17: Evaluarea populatiei curente: 2762.85409, 3735.38933, 3522.77973, 8966.28039, 4974.95173, 3608.89430, 4358.32280, 3653.06258, 3847.02902, 8200.79188, 
+Fenotipul celui mai bun candidat al populatiei curente (pS, nrG, sM, t_E, P_m, s, P_c):  118, 426, 1, 5, 0.04023, 0.16473, 0.71393 || GA(candidat): 2762.85409
+
+Generatia 17
+17: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 426, 1, 6, 0.03867, 0.16473, 0.71349;
+17: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 427, 1, 5, 0.04032, 0.13220, 0.71387;
+17: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 190, 1286, 3, 8, 0.11693, 0.16355, 0.45926;
+17: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 395, 3, 5, 0.04096, 0.16490, 0.45921;
+17: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 142, 286, 3, 6, 0.11382, 0.16087, 0.45926;
+17: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 395, 3, 5, 0.04018, 0.14344, 0.45921;
+17: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 395, 3, 5, 0.01836, 0.16490, 0.45921;
+17: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 121, 161, 3, 6, 0.04143, 0.33393, 0.46281;
+17: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 270, 1, 3, 0.04656, 0.85248, 0.57057;
+17: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 189, 1418, 1, 8, 0.18377, 0.76562, 0.03868;
+18: Evaluarea populatiei curente: 3025.46153, 3025.72170, 2320.81478, 3720.09679, 4148.60934, 3649.37013, 3156.46981, 4208.07300, 7257.79557, 9069.68764, 
+Fenotipul celui mai bun candidat al populatiei curente (pS, nrG, sM, t_E, P_m, s, P_c):  190, 1286, 3, 8, 0.11693, 0.16355, 0.45926 || GA(candidat): 2320.81478
+
+Generatia 18
+18: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 190, 1286, 3, 6, 0.11674, 0.13133, 0.45926;
+18: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 426, 1, 6, 0.03867, 0.16473, 0.71697;
+18: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 395, 3, 5, 0.04096, 0.16457, 0.45921;
+18: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 121, 161, 3, 6, 0.04143, 1.02080, 0.01780;
+18: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 121, 223, 3, 6, 0.04212, 2.91109, 0.57051;
+18: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 142, 286, 3, 6, 0.11382, 0.16085, 0.45926;
+18: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 190, 1286, 3, 8, 0.11654, 0.16355, 0.57051;
+18: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 422, 1, 6, 0.03867, 5.65974, 0.76909;
+18: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 106, 427, 1, 5, 0.04032, 0.04634, 0.71398;
+18: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 190, 1286, 3, 8, 0.11625, 0.33393, 0.46281;
+19: Evaluarea populatiei curente: 2024.85139, 3178.19051, 3607.02231, 8084.42440, 8671.67817, 4214.48343, 1634.85924, 8251.18463, 4360.88123, 2510.59522, 
+Fenotipul celui mai bun candidat al populatiei curente (pS, nrG, sM, t_E, P_m, s, P_c):  190, 1286, 3, 8, 0.11654, 0.16355, 0.57051 || GA(candidat): 1634.85924
+
+Generatia 19
+19: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 190, 1286, 3, 8, 0.11654, 0.16355, 0.57040;
+19: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 190, 1286, 3, 6, 0.11674, 0.13133, 0.01426;
+19: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 94, 1786, 3, 3, 0.11674, 0.12060, 0.45926;
+19: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 118, 1422, 1, 6, 0.03867, 5.65974, 0.76822;
+19: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 106, 427, 1, 5, 0.14008, 0.04651, 0.71398;
+19: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 106, 427, 1, 5, 0.04032, 0.13082, 0.71378;
+19: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 190, 1286, 3, 6, 0.11654, 0.16359, 0.57051;
+19: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 142, 286, 3, 5, 0.11382, 0.11792, 0.45932;
+19: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 121, 223, 3, 6, 0.04217, 2.91109, 0.79301;
+19: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 190, 1286, 3, 8, 0.11626, 0.33393, 0.49062;
+20: Evaluarea populatiei curente: 2134.06418, 2577.64055, 3365.03145, 7724.13432, 4727.78563, 3171.47700, 2036.11825, 5526.53282, 8862.89851, 2471.06897, 
+Fenotipul celui mai bun candidat al populatiei curente (pS, nrG, sM, t_E, P_m, s, P_c):  190, 1286, 3, 6, 0.11654, 0.16359, 0.57051 || GA(candidat): 2036.11825
+
+Generatia 20
+20: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 190, 1286, 3, 6, 0.15083, 0.50703, 0.57051;
+20: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 190, 1786, 3, 6, 0.11674, 0.12060, 0.45926;
+20: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 190, 1286, 3, 8, 0.11626, 1.70634, 0.49062;
+20: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 142, 286, 3, 5, 0.11382, 5.61292, 0.48713;
+20: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 154, 427, 0, 7, 0.14008, 0.04685, 0.71398;
+20: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 106, 427, 1, 5, 0.14008, 0.04651, 0.71398;
+20: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 190, 1348, 3, 6, 0.11752, 0.46406, 0.01078;
+20: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 94, 1286, 3, 4, 0.11626, 0.34466, 0.49236;
+20: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 94, 1286, 3, 4, 0.11654, 0.16359, 0.57714;
+20: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 142, 286, 3, 5, 0.11382, 5.61292, 0.45932;
+21: Evaluarea populatiei curente: 8223.89135, 2605.49779, 8899.99708, 9753.93280, 8530.22533, 4806.31530, 6836.98393, 3460.91683, 2737.10181, 9360.19388, 
+Fenotipul celui mai bun candidat al populatiei curente (pS, nrG, sM, t_E, P_m, s, P_c):  190, 1786, 3, 6, 0.11674, 0.12060, 0.45926 || GA(candidat): 2605.49779
+
+Generatia 21
+21: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 190, 1786, 3, 6, 0.11674, 0.12060, 0.45926;
+21: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 94, 1286, 3, 3, 0.15707, 0.50678, 0.57051;
+21: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 154, 427, 0, 7, 0.14008, 0.04685, 0.71398;
+21: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 190, 1786, 3, 6, 0.11693, 0.12060, 0.48707;
+21: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 142, 286, 3, 5, 0.11382, 5.61292, 0.45910;
+21: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 142, 1286, 3, 6, 0.11654, 0.14213, 0.57714;
+21: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 190, 1286, 3, 8, 0.15122, 0.51776, 0.46013;
+21: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 93, 1411, 3, 4, 0.11654, 0.16342, 0.57714;
+21: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 190, 1786, 3, 6, 0.11674, 0.12060, 0.45929;
+21: parametri cu care se apeleaza GA acum sunt: FUNCTIE, 30, -500.00, 500.00, 94, 1286, 3, 4, 0.11654, 0.16359, 0.57714;

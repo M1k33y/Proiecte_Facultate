@@ -1,0 +1,60 @@
+ GLOBAL:   Nume: Program
+      var:       TIP: A,   NUME: oba
+      var:       TIP: A,   NUME: ob
+      var:       TIP: int,   NUME: x,   VALUE: 60
+      var:       TIP: int,   NUME: ix,   VALUE: 30
+      var:       TIP: int,   NUME: iy,   VALUE: 900
+      var:       TIP: int,   NUME: iz,   VALUE: 30
+      var:       TIP: bool,   NUME: b1,   VALUE: false
+      var:       TIP: bool,   NUME: b2,   VALUE: false
+      var:       TIP: float,   NUME: fx,   VALUE: 6.500000
+      var:       TIP: string,   NUME: s,   VALUE: "otherstr"
+      var:       TIP: char,   NUME: c,   VALUE: 'x'
+      array:     TIP: int,   NUME: v,   SIZE: 11,   VALORI: , 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 100
+      CLASA:   Nume: A
+           var:       TIP: int,   NUME: x,   VALUE: 100
+           var:       TIP: int,   NUME: y,   VALUE: 200
+           var:       TIP: int,   NUME: mz,   VALUE: 0
+                FUNCTIE:   Return Type: int   Nume: g
+                     parametru var:    TIP: int,   NUME: z
+                          IF:
+                                    WHILE:
+                                         var:       TIP: int,   NUME: xx,   VALUE: 0
+
+
+
+                FUNCTIE:   Return Type: int   Nume: f
+                     parametru var:    TIP: int,   NUME: z
+                          IF:
+
+
+
+      FUNCTIE:   Return Type: int   Nume: f
+           parametru var:    TIP: int,   NUME: z
+           var:       TIP: int,   NUME: xy,   VALUE: 0
+           var:       TIP: int,   NUME: y,   VALUE: 0
+                IF:
+                     var:       TIP: int,   NUME: mx,   VALUE: 22443
+                     var:       TIP: bool,   NUME: flag,   VALUE: false
+                          WHILE:
+                               var:       TIP: int,   NUME: xl,   VALUE: 0
+
+
+
+      CLASA:   Nume: C
+           var:       TIP: int,   NUME: mz,   VALUE: -5
+
+      FUNCTIE:   Return Type: int   Nume: bfunc
+           parametru var:    TIP: bool,   NUME: b
+           parametru var:    TIP: string,   NUME: s
+                IF:
+
+                ELSE:
+
+
+      MAIN:   Nume: Main_Program
+           var:       TIP: A,   NUME: obj
+           var:       TIP: int,   NUME: xl,   VALUE: 4
+           var:       TIP: bool,   NUME: ss,   VALUE: false
+           var:       TIP: bool,   NUME: w,   VALUE: false
+

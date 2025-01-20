@@ -1,0 +1,273 @@
+int globalVar;
+float globalFloat;
+bool globalBool;
+
+class Student {
+    string name;
+    int grade;
+
+public:
+    void setName(string n) {
+        name = n;
+    }
+
+    void setGrade(int g) {
+        grade = g;
+    }
+
+    string getName() {
+        return name;
+    }
+
+    int getGrade() {
+        return grade;
+    }
+
+    string getStatus() {
+        if (grade >= 50) {
+            return "Pass";
+        } else {
+            return "Fail";
+        }
+        return "";
+    }
+};
+
+void testStudent() {
+    Student s1;
+    Student s2;
+    s1.setName("Alice");
+    s1.setGrade(85);
+    s2.setName("Bob");
+    s2.setGrade(45);
+
+    Print(1+2+3);
+}
+
+class Rectangle {
+    int width;
+    int height;
+
+public:
+    void setWidth(int w) {
+        width = w;
+    }
+
+    void setHeight(int h) {
+        height = h;
+    }
+
+    int area() {
+        return width * height;
+    }
+
+    int perimeter() {
+        return 2 * (width + height);
+    }
+};
+
+void testRectangle() {
+    Rectangle r1;
+    Rectangle r2;
+    r1.setWidth(10);
+    r1.setHeight(5);
+    r2.setWidth(7);
+    r2.setHeight(3);
+
+   Print(1+2+3);
+}
+
+class Circle {
+    float radius;
+
+public:
+    void setRadius(float r) {
+        radius = r;
+    }
+
+    float area() {
+        return 3.14 * radius * radius;
+    }
+
+    float circumference() {
+        return 2.0 * 3.14 * radius;
+    }
+};
+
+void testCircle() {
+    Circle c1;
+    Circle c2;
+    c1.setRadius(5.0);
+    c2.setRadius(10.0);
+
+    Print(1+2+3);
+}
+
+void factorial(int n) {
+    int result = 1;
+    int i = 1;
+    while (i <= n) {
+        result = result * i;
+        i = i + 1;
+    }
+    Print("Factorial of " + "n" + " is: " + "result");
+}
+
+void sumNumbers(int n) {
+    int sum = 0;
+    int i = 1;
+    while (i <= n) {
+        sum = sum + i;
+        i = i + 1;
+    }
+    Print("Sum of numbers from 1 to " + "n" + " is: " + "sum");
+}
+
+bool isPrime(int n) {
+    if (n <= 1) {return false;}
+    int i = 2;
+    while (i * i <= n) {
+        if (n % i == 0) {
+        i = i + 1;
+        return false;}
+    }
+    return true;
+}
+
+void testIsPrime() {
+    int i = 1;
+    while (i <= 20) {
+        Print("Number " + "i" + " is prime: " + "isPrime(i)");
+        i = i + 1;
+    }
+}
+
+void reverseString(string str) {
+    string reversed = "";
+    int i = 7;
+    while (i >= 0) {
+        reversed = reversed + str[i];
+        i = i - 1;
+    }
+    Print("Original string: " + str + ", Reversed string: " + reversed);
+}
+
+void testStringReversal() {
+    reverseString("Hello");
+    reverseString("OpenAI");
+}
+
+void printMultiplicationTable(int n) {
+    int i = 1;
+    while (i <= 10) {
+        Print("n" + " x " + "i" + " = " + "(n * i)");
+        i = i + 1;
+    }
+}
+
+void testMultiplicationTable() {
+    printMultiplicationTable(5);
+    printMultiplicationTable(7);
+}
+
+int sumArrayElements(int arr[10], int size) {
+    int sum = 0;
+    int i = 0;
+    while (i < size) {
+        sum = sum + arr[i];
+        i = i + 1;
+    }
+    return sum;
+}
+
+int productArrayElements(int arr[10], int size) {
+    int product = 1;
+    int i = 0;
+    while (i < size) {
+        product = product * arr[i];
+        i = i + 1;
+    }
+    return product;
+}
+
+void testArrayOperations() {
+    int arr1[3];
+    arr1[0] = 2;
+    arr1[1] = 3;
+    arr1[2] = 4;
+
+    int arr2[4];
+    arr2[0] = 1;
+    arr2[1] = 2;
+    arr2[2] = 3;
+    arr2[3] = 4;
+
+    Print(sumArrayElements(arr1, 3));
+    Print(productArrayElements(arr1, 3));
+    Print( sumArrayElements(arr2, 4));
+    Print("Product of arr2: ");
+}
+
+void findMax(int arr[10], int size) {
+
+    int i = 1;
+    int cnt=0;
+    while (i < size) {
+        if (arr[i] > 10) {
+            cnt = arr[i];
+        }
+        i = i + 1;
+    }
+    Print("Maximum value in the array is: " );
+
+}
+
+void testFindMax() {
+    int arr[5];
+    arr[0] = 1;
+    arr[1] = 10;
+    arr[2] = 3;
+    arr[3] = 7;
+    arr[4] = 5;
+    findMax(arr, 5);
+}
+
+void countEvens(int arr[10], int size) {
+    int count = 0;
+    int i = 0;
+    while (i < size) {
+        if (arr[i] % 2 == 0) {
+            count = count + 1;
+        }
+        i = i + 1;
+    }
+    Print("Number of even elements: ");
+    Print(count);
+}
+
+void testCountEvens() {
+    int arr[6];
+    arr[0] = 2;
+    arr[1] = 4;
+    arr[2] = 6;
+    arr[3] = 8;
+    arr[4] = 10;
+    arr[5] = 12;
+    countEvens(arr, 6);
+}
+
+begin_progr
+    testStudent();
+    testRectangle();
+    testCircle();
+    factorial(5);
+    factorial(7);
+    sumNumbers(10);
+    sumNumbers(15);
+    testIsPrime();
+    testStringReversal();
+    testMultiplicationTable();
+    testArrayOperations();
+    testFindMax();
+    testCountEvens();
+end_progr
